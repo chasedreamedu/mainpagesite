@@ -1,0 +1,76 @@
+
+div, ol, ul, table {
+    float:left;
+}
+
+#indexCarouselContainer {
+    background-color: #333333;
+    text-align: center;
+    width: 100%;
+}
+
+#indexCarousel {
+    display: inline-block;
+}
+
+#indexCarouselContainer div {
+    float: none;
+}
+
+#carouselDiv1 {
+    color: white;
+    background-color: rgba(229,182,84,0.8);
+    position: absolute;
+    right: 40px;
+    top: 40px;
+    font-size: 35px;
+    padding: 20px;
+    text-align: left;
+}
+
+#carouselDiv2 {
+    color: white;
+    background-color: rgba(78,159,33,0.8);
+    position: absolute;
+    right: 40px;
+    bottom: 40px;
+    font-size: 35px;
+    padding: 20px;
+    text-align: left;
+}
+
+#carouselDiv3 {
+    color: white;
+    background-color: rgba(7,144,213,0.6);
+    position: absolute;
+    right: 40px;
+    top: 40px;
+    font-size: 35px;
+    padding: 20px;
+    text-align: left;
+}
+
+#carouselDiv4 {
+    color: white;
+    background-color: rgba(7,144,213,0.6);
+    position: absolute;
+    left: 40px;
+    bottom: 40px;
+    font-size: 35px;
+    padding: 20px;
+    text-align: left;
+}
+
+.master-title {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin: 80px 0px;
+}
+
+.sub-title {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin: 60px 0px;
+}
